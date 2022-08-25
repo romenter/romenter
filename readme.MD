@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next, Node**
 
-- ⚡ Hobbies [Love do music & poems,](Love do music & poems,)
+- ⚡ Hobbies (Love music & poems,)
 
 - 💬 Ask me about **JS & React**
 
