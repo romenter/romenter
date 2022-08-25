@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **React, Next, Node**
 
-- 👨‍💻 All of my projects are available at [...](...)
-
 - ⚡ Hobbies [Love do music & poems,](Love do music & poems,)
 
 - 💬 Ask me about **JS & React**
 
 - 📫 How to reach me **romen.tergazarian@gmail.com**
-
-- 📄 Know about my experiences [...](...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
