@@ -7,9 +7,9 @@
 
 - ⚡ Hobbies (Love music & poems,)
 
-- 💬 Ask me about **JS & React**
+- 📫 email: **romenter.dev@gmail.com**
 
-- 📫 How to reach me **romenter.dev@gmail.com**
+- 📲 phone number: **+054 11888472**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
