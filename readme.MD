@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romen</h1>
-<h3 align="center">A frontend developer from Argentina, Buenos Aires</h3>
+<h3 align="center">A data Analyst from Argentina, Buenos Aires</h3>
 
 - 🔭 I’m currently working on [Perfecto Descontento](https://github.com/romenter/perfecto-descontento_openshop)
 
